@@ -13,6 +13,7 @@
 		48D2915328B3C67D0050D4F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48D2915128B3C67D0050D4F1 /* Main.storyboard */; };
 		48D2915528B3C67F0050D4F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48D2915428B3C67F0050D4F1 /* Assets.xcassets */; };
 		48D2915828B3C67F0050D4F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48D2915628B3C67F0050D4F1 /* LaunchScreen.storyboard */; };
+		48D2916028B3CA030050D4F1 /* firstClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48D2915F28B3CA020050D4F1 /* firstClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		48D2915428B3C67F0050D4F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		48D2915728B3C67F0050D4F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		48D2915928B3C67F0050D4F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48D2915F28B3CA020050D4F1 /* firstClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				48D2914B28B3C67D0050D4F1 /* AppDelegate.swift */,
 				48D2914D28B3C67D0050D4F1 /* SceneDelegate.swift */,
 				48D2914F28B3C67D0050D4F1 /* ViewController.swift */,
+				48D2915F28B3CA020050D4F1 /* firstClass.swift */,
 				48D2915128B3C67D0050D4F1 /* Main.storyboard */,
 				48D2915428B3C67F0050D4F1 /* Assets.xcassets */,
 				48D2915628B3C67F0050D4F1 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				48D2915028B3C67D0050D4F1 /* ViewController.swift in Sources */,
+				48D2916028B3CA030050D4F1 /* firstClass.swift in Sources */,
 				48D2914C28B3C67D0050D4F1 /* AppDelegate.swift in Sources */,
 				48D2914E28B3C67D0050D4F1 /* SceneDelegate.swift in Sources */,
 			);
